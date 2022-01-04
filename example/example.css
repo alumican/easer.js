@@ -1,0 +1,14 @@
+#animation {
+	position: relative;
+}
+
+#animation .target {
+	background-color: #000;
+	width: 40px;
+	height: 40px;
+	border-radius: 4px;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}

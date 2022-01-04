@@ -1,0 +1,18 @@
+{
+    "out": "doc",
+    "entryPoints": [
+        "./src/Easer.ts",
+        "./src/core/if/Runnable.ts",
+        "./src/util/Easing.ts",
+        "./src/util/EasingFunction.ts"
+    ],
+    "exclude": "**/node_modules/**",
+    "tsconfig": "./tsconfig.doc.json",
+    "name": "Easer.js",
+    "readme": "none",
+    "includeVersion": true,
+    "excludeExternals": false,
+    "excludePrivate": false,
+    "excludeProtected": false,
+    "excludeInternal": false
+}

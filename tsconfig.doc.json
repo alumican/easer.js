@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./doc",
+    "moduleResolution": "node",
+    "paths": {
+      "easer": ["../src/Easer"]
+    }
+  }
+}
